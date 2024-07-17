@@ -1,5 +1,7 @@
 Amazon Clone project
 
+live website: https://dhathrisriya.github.io/Amazon_clone_project/
+
 This project is a simplified clone of the Amazon e-commerce website's homepage using HTML and CSS. It aims to replicate the layout and styling of Amazon's main page to showcase fundamental web development skills.
 
 The clone includes:
